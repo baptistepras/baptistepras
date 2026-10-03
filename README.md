@@ -1,8 +1,12 @@
 # Hi, I'm Baptiste Pras
 
-Master's student in Artificial Intelligence at Université Paris-Saclay (PhD track), with a funded PhD position at Université Paris-Saclay lined up after the master.
+Master's student in Artificial Intelligence at Université Paris-Saclay (PhD track), with a funded PhD position at Université Paris-Saclay lined up after the master, on robust and explainable multimodal detection of small aerial targets from radar and infrared signals.
 
-I work on deep learning for **computer vision** (object counting, detection, video prediction) and **biomedical NLP** (entity linking), with an interest in how data properties such as class imbalance shape what models learn.
+My research covers three areas:
+
+* **Computer vision**: object counting, detection, video prediction;
+* **NLP**: biomedical entity linking, information retrieval, summarization;
+* **Imbalanced learning**: how class ratios in the training data shape what classifiers learn.
 
 ## Publications
 
@@ -30,4 +34,4 @@ I work on deep learning for **computer vision** (object counting, detection, vid
 
 ## Contact
 
-[Website](https://baptistepras.fr) · [LinkedIn](https://www.linkedin.com/in/baptiste-pras/) · [baptiste.pras@universite-paris-saclay.fr](mailto:baptiste.pras@universite-paris-saclay.fr) · [ORCID](https://orcid.org/0009-0004-5780-1287) · [Google Scholar](https://scholar.google.com/citations?user=yG547NcAAAAJ)
+[Website](https://baptistepras.fr) · [LinkedIn](https://www.linkedin.com/in/baptiste-pras/) · [Google Scholar](https://scholar.google.com/citations?user=yG547NcAAAAJ) · [ORCID](https://orcid.org/0009-0004-5780-1287)
